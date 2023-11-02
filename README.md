@@ -8,8 +8,5 @@ For optimal document visualization, download and view it on Jupyter Notebook. Al
 2. Paste the following URL into the text field:  https://github.com/PreziosiMarco/Face-recognition-with-Python-code/blob/main/Face%20Recognition.ipynb
 3. Click the "Go" button to view the notebook
 
-# Acknowledgements
-I would like to express my gratitude to the developers and contributors of the following project: Sarnataro Angela, Valletta Amina, and Prof. Cuomo Salvatore
-
 # Contact
-If you have any questions or suggestions regarding this project, please feel free to contact me at preziosi.marco.1994@gmail.com
+If you have any questions or suggestions regarding this project, please feel free to contact us at preziosi.marco.1994@gmail.com
